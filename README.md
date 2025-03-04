@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nfr9sydu4ayqpom9?svg=true)](https://ci.appveyor.com/project/KuznetsovaAnna66/ahj-dom-jy895)
+[![Build status](https://ci.appveyor.com/api/projects/status/0xc4p36748jt3u52?svg=true)](https://ci.appveyor.com/project/KuznetsovaAnna66/ahj-homeworks-dnd)
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
